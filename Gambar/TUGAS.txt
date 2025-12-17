@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <Title>Mobile Legends</Title>
+    </head>
+    <body bgcolor="BLACK"
+          <font color="pink
+ <center>
+    <img src"Gambar\Mobile Legends.jpg
+    title="Mobile Legends" Width="250"
+ </center>
+</h2>BIODATA</h2
+nama: <b>Mochammad Rajef</b><br>
+kota: <i>tangerang</i><br>
+jurusan: Sistem Informasi<br>
+fakultas: <b><i><u>ilmu komputer<b><i></u><br>
+
+<h2 align="center">Belajar Mobile Legends</h2>
+<font face="verdana" size="4">
+
+    <img src="Gambar/c:\Users\HELLO\Desktop\01SIFP015\download.jpg" alt="Gambar Mobile Legends"
+    title="Mobile Legends" width="250" align="left" hspace="10" vspace="10"
+
